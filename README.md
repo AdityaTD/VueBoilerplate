@@ -2,6 +2,7 @@
 My Personal Boilerplate for Vue Projects.
 
 ## Includes
+- Axios
 - Bulma
 - Animate.css
 - FontAwesome
