@@ -6,6 +6,7 @@ My Personal Boilerplate for Vue Projects.
 - Bulma
 - Animate.css
 - FontAwesome
+- SSR Pre-rendering
 - SASS & SCSS
 - Google Tags
 - ESlint Config
